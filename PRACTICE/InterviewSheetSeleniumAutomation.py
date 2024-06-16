@@ -1,0 +1,1 @@
+#C:\Users\dell\AppData\Local\Programs\Python\Python310-32\Scripts
